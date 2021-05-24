@@ -26,12 +26,12 @@ Ev Adresi
 
 Hesap Bakiyesi (Bankada bulunan para miktarı)
 
-*İpucu: OOP'u uygulamayı unutmayın
+*İpucu: OOP'u uygulamayı unutmayın 
 
 5 Kişinin hesap bilgileri olacak ve bu bilgiler uygulama içinde bir Collection'da tutulacak:
 Banka Müşteri No (string) ve Musteri (class)
 *Hint: hangi collection tipi buna uygun iyi düşünün
-Müşterinin bakiye bilgilerini ve ad soyad gibi bilgilerini farazi verebilirsiniz.
+Müşterinin bakiye bilgilerini ve ad soyad gibi bilgilerini farazi verebilirsiniz. 
 
 Uygulama ayağa kalkınca kondola girilen banka müşteri numarasına göre ilgili kişinin bakiye, adres gibi tüm bilgilerini
 hatta kurumsal müşteri ise şirket adı gibi o tipe ait tüm bilgileri konsola basmanız ve bilgilendirmeniz istenmektedir.
