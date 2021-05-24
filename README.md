@@ -30,4 +30,4 @@ hatta kurumsal müşteri ise şirket adı gibi o tipe ait tüm bilgileri konsola
 Bu bilgi verildikten sonra terminalden rakam girişi alınmalı ve
 1 değeri girilirse para yatırma 2 değeri girilirse para çekme işlemi başlatılmalıdır.
 
-Para yatırma ve çekme işlemleri için özel bir sınıf yazınız ve bu sınıftaki metodlarda işlem yaptırıp sonucu ilgili değere atayınız.
+Para yatırma ve çekme işlemleri için özel bir sınıf yazınız ve bu sınıftaki metodlarda işlem yaptırıp sonucu ilgili değere atayınız. 
