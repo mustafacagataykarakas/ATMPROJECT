@@ -5,17 +5,27 @@ ATM ÖDEVİ
 Bu ödev teerminal/Konsol Uygulaması olacaktır.
 
 "KurumsalMusteri" adlı bir sınıf yapınız ve içinde
+
 Tc Kimlik No
+
 Ad Soyad
+
 Şirket Adı
+
 Hesap Bakiyesi (Bankada bulunan para miktarı)
+
 *İpucu: OOP'u uygulamayı unutmayın
 
 "BireyselMusteri" adlı bir sınıf yapınız ve içinde
+
 Tc Kimlik No
+
 Ad Soyad
-Ev Adresi
+
+Ev Adresi 
+
 Hesap Bakiyesi (Bankada bulunan para miktarı)
+
 *İpucu: OOP'u uygulamayı unutmayın
 
 5 Kişinin hesap bilgileri olacak ve bu bilgiler uygulama içinde bir Collection'da tutulacak:
